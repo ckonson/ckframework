@@ -1,0 +1,11 @@
+{
+    "name": "kontem/ckframework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ckonson",
+            "email": "ckonson@gmail.com"
+        }
+    ],
+    "require": {}
+}
