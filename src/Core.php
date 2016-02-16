@@ -1,5 +1,5 @@
 <?php
-namespace Ck\Demo;
+namespace Ck;
 /**
  *
  */
